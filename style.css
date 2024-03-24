@@ -1,0 +1,16 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main {
+  width: 600px;
+  margin: auto;
+}
+
+.header-container {
+  text-align: left;
+}
+
+.footer-container {
+  text-align: right;
+}
